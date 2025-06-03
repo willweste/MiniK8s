@@ -1,0 +1,7 @@
+kind: Pod
+spec:
+  containers:
+    - name: myfirstpythonapp
+      image: myfirstpythonapp:latest
+      ports:
+        - containerPort: 80

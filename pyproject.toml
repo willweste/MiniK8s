@@ -1,0 +1,4 @@
+[project]
+name= "MiniK8s"
+version="0.1"
+dependencies=[]
